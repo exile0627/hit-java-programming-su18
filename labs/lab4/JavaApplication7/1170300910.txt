@@ -1,0 +1,201 @@
+6623789169,kif,2.00,43.79,10.95,Underweight
+6097858874,xon,1.89,40.53,11.35,Underweight
+5055236466,qbl,1.94,44.22,11.75,Underweight
+6833557188,fwo,1.82,40.90,12.35,Underweight
+0970229136,qid,1.92,46.10,12.51,Underweight
+7177234118,ees,1.90,45.45,12.59,Underweight
+1093133654,rik,1.82,41.95,12.66,Underweight
+5470665496,jdu,1.92,47.43,12.87,Underweight
+1485179293,gcb,1.86,46.39,13.41,Underweight
+5546161457,azc,1.95,52.79,13.88,Underweight
+9131981100,vrp,1.95,56.18,14.77,Underweight
+7376027439,zwg,1.83,49.68,14.83,Underweight
+1310897323,gsz,1.74,44.90,14.83,Underweight
+7166850618,nyg,1.73,44.72,14.94,Underweight
+3547388144,utj,1.64,40.17,14.94,Underweight
+4820470228,rka,1.73,45.60,15.24,Underweight
+1569014559,njh,1.73,46.28,15.46,Underweight
+6419012146,yos,1.95,59.07,15.53,Underweight
+8596060548,ccz,1.89,55.70,15.59,Underweight
+1363590163,tif,1.71,46.31,15.84,Underweight
+2399935037,wiz,1.65,43.22,15.88,Underweight
+3085530190,gnj,1.74,48.79,16.12,Underweight
+8156781448,has,1.64,44.01,16.36,Underweight
+0336270390,xog,1.91,60.47,16.58,Underweight
+3846500967,dmd,1.70,48.00,16.61,Underweight
+7505658896,wkt,1.63,44.15,16.62,Underweight
+9195798231,tib,1.62,43.80,16.69,Underweight
+3106338661,fup,1.71,49.02,16.76,Underweight
+4411605840,isf,1.76,52.23,16.86,Underweight
+3790207058,gun,1.68,47.83,16.95,Underweight
+7838122156,afu,1.59,43.55,17.23,Underweight
+5219835211,asd,1.60,44.68,17.45,Underweight
+5810449848,mhp,1.54,41.39,17.45,Underweight
+0211554243,ixh,1.52,40.36,17.47,Underweight
+3046266479,drp,1.84,60.16,17.77,Underweight
+6625492831,ath,1.80,57.56,17.77,Underweight
+6855494458,bkk,1.58,45.56,18.25,Underweight
+5195325159,bct,2.00,73.37,18.34,Underweight
+2661296412,yub,1.59,46.61,18.44,Underweight
+1165147559,efq,1.75,57.10,18.64,Normal Range
+2213890765,fkj,1.69,53.46,18.72,Normal Range
+9955810272,bom,1.87,67.22,19.22,Normal Range
+8267567972,neb,1.87,67.70,19.36,Normal Range
+5746712927,vcy,1.82,64.50,19.47,Normal Range
+3173256945,diw,1.84,68.91,20.35,Normal Range
+8653152155,egg,1.82,67.59,20.41,Normal Range
+4911934366,oqu,1.86,71.25,20.59,Normal Range
+0589002021,xcg,1.59,53.60,21.20,Normal Range
+5736764396,gmz,1.77,66.63,21.27,Normal Range
+9594778880,epa,1.61,55.60,21.45,Normal Range
+9787389980,jtl,1.63,57.27,21.56,Normal Range
+4199774171,nkd,1.60,55.48,21.67,Normal Range
+7838866492,qhd,1.84,73.67,21.76,Normal Range
+1855512547,slh,1.89,78.43,21.96,Normal Range
+7247289174,nxo,1.59,55.68,22.02,Normal Range
+3675864568,gzt,1.78,69.92,22.07,Normal Range
+2216873334,brn,1.99,87.47,22.09,Normal Range
+8192700580,rzj,1.82,73.16,22.09,Normal Range
+8002990206,rls,2.00,88.83,22.21,Normal Range
+2395976079,gwa,1.80,72.57,22.40,Normal Range
+2778147579,fra,1.66,62.10,22.54,Normal Range
+2157542886,jox,1.55,54.16,22.54,Normal Range
+1290756096,cjq,1.60,58.03,22.67,Normal Range
+9775240796,cgg,1.99,90.19,22.77,Normal Range
+3076161082,squ,1.75,69.88,22.82,Normal Range
+6264562050,ncm,1.66,63.09,22.90,Normal Range
+9204533107,ois,1.91,84.58,23.18,Overweight-At Risk
+2879156302,sxk,1.86,80.25,23.20,Overweight-At Risk
+6801964495,vbr,1.91,85.04,23.31,Overweight-At Risk
+3774564179,pzc,1.80,76.00,23.46,Overweight-At Risk
+2341152924,nbe,1.56,57.37,23.57,Overweight-At Risk
+9820790782,rcz,1.73,70.84,23.67,Overweight-At Risk
+9483374567,vvl,1.92,87.35,23.70,Overweight-At Risk
+4399774785,cra,1.93,88.48,23.75,Overweight-At Risk
+2550105685,ftd,1.98,93.29,23.80,Overweight-At Risk
+5027881003,ebi,1.77,74.64,23.82,Overweight-At Risk
+8918699357,xje,1.78,75.55,23.84,Overweight-At Risk
+0202087639,lbd,1.78,75.92,23.96,Overweight-At Risk
+6609450919,dgd,1.58,60.18,24.11,Overweight-At Risk
+9581119171,uik,1.68,68.33,24.21,Overweight-At Risk
+0598184313,kmk,1.71,71.12,24.32,Overweight-At Risk
+1436970401,kej,1.93,90.76,24.37,Overweight-At Risk
+0422907286,kcc,1.55,59.17,24.63,Overweight-At Risk
+2007321073,cws,1.91,89.93,24.65,Overweight-At Risk
+3981921024,tjf,1.55,59.52,24.77,Overweight-At Risk
+9843284671,frw,1.84,84.88,25.07,Overweight-Moderately Obese
+3418933390,knt,1.62,66.39,25.30,Overweight-Moderately Obese
+2875102732,kyn,1.87,88.91,25.43,Overweight-Moderately Obese
+8593942665,agw,1.90,91.99,25.48,Overweight-Moderately Obese
+8113666955,nei,1.95,97.31,25.59,Overweight-Moderately Obese
+7759349574,jig,1.88,90.58,25.63,Overweight-Moderately Obese
+6577997570,piz,1.58,64.03,25.65,Overweight-Moderately Obese
+5038837467,gzi,1.61,66.53,25.67,Overweight-Moderately Obese
+9738799304,lkj,1.85,88.03,25.72,Overweight-Moderately Obese
+3073875781,tax,1.74,77.97,25.75,Overweight-Moderately Obese
+4289879111,tnj,1.60,66.79,26.09,Overweight-Moderately Obese
+8819605494,hrk,1.69,74.70,26.15,Overweight-Moderately Obese
+7236148457,ens,1.76,81.25,26.23,Overweight-Moderately Obese
+9867178075,efe,1.84,89.25,26.36,Overweight-Moderately Obese
+9861627337,xwo,1.98,103.77,26.47,Overweight-Moderately Obese
+0723460074,eat,1.81,87.02,26.56,Overweight-Moderately Obese
+9768784900,oyx,1.85,91.01,26.59,Overweight-Moderately Obese
+3878548579,pcw,1.76,82.94,26.78,Overweight-Moderately Obese
+1908962939,utu,1.93,100.50,26.98,Overweight-Moderately Obese
+5322596180,ifh,1.55,65.81,27.39,Overweight-Moderately Obese
+7272966898,jge,1.96,105.59,27.49,Overweight-Moderately Obese
+3722804681,itj,1.51,62.72,27.51,Overweight-Moderately Obese
+4926762829,qht,1.57,68.09,27.62,Overweight-Moderately Obese
+1209581482,zdl,1.56,67.24,27.63,Overweight-Moderately Obese
+5601218765,sct,1.56,68.00,27.94,Overweight-Moderately Obese
+7821228418,glm,1.95,106.28,27.95,Overweight-Moderately Obese
+2103762525,raw,1.93,104.71,28.11,Overweight-Moderately Obese
+3461377385,cqz,1.59,71.48,28.27,Overweight-Moderately Obese
+8927903430,qpc,1.68,80.05,28.36,Overweight-Moderately Obese
+1300008998,tax,1.82,94.07,28.40,Overweight-Moderately Obese
+2715465525,xqn,1.53,66.88,28.57,Overweight-Moderately Obese
+1075453042,hmt,1.74,86.60,28.60,Overweight-Moderately Obese
+3531166804,rqu,1.57,70.54,28.62,Overweight-Moderately Obese
+9260887224,hot,1.99,113.60,28.69,Overweight-Moderately Obese
+8456954628,tqc,1.56,69.83,28.69,Overweight-Moderately Obese
+5472568888,eyf,1.99,114.48,28.91,Overweight-Moderately Obese
+2019565959,opv,1.75,88.74,28.98,Overweight-Moderately Obese
+7112745960,lsr,1.97,112.98,29.11,Overweight-Moderately Obese
+8309921438,yqh,1.82,96.54,29.15,Overweight-Moderately Obese
+5078448387,fsq,1.90,105.41,29.20,Overweight-Moderately Obese
+4224856522,eqj,1.93,109.11,29.29,Overweight-Moderately Obese
+9589559856,obo,1.99,116.13,29.33,Overweight-Moderately Obese
+3880876691,yik,1.70,85.36,29.54,Overweight-Moderately Obese
+4646818740,ngr,1.89,106.17,29.72,Overweight-Moderately Obese
+7924691797,kgw,1.94,112.95,30.01,Overweight-Severely Obese
+4032109283,vce,1.59,75.97,30.05,Overweight-Severely Obese
+2847431407,piw,1.69,85.91,30.08,Overweight-Severely Obese
+0902352212,rdw,1.81,99.78,30.46,Overweight-Severely Obese
+5710298029,akl,1.97,118.74,30.60,Overweight-Severely Obese
+3158104505,gxk,1.74,92.99,30.71,Overweight-Severely Obese
+8397345343,obp,1.81,100.69,30.73,Overweight-Severely Obese
+6776238942,fzb,1.79,98.70,30.80,Overweight-Severely Obese
+7381378176,qsc,1.72,91.17,30.82,Overweight-Severely Obese
+3949605008,cll,1.66,85.51,31.03,Overweight-Severely Obese
+8375553180,oxt,1.54,73.86,31.14,Overweight-Severely Obese
+8484518143,nxj,1.93,116.31,31.23,Overweight-Severely Obese
+4594651569,xkp,1.66,86.13,31.26,Overweight-Severely Obese
+0433086356,fco,1.93,116.82,31.36,Overweight-Severely Obese
+5877063985,pzu,1.63,84.30,31.73,Overweight-Severely Obese
+3421774534,szd,1.86,109.88,31.76,Overweight-Severely Obese
+3917406354,gfp,1.62,83.48,31.81,Overweight-Severely Obese
+2933797152,wbo,1.66,87.85,31.88,Overweight-Severely Obese
+6647392598,nqt,1.71,93.87,32.10,Overweight-Severely Obese
+4459759438,pzg,1.58,80.74,32.34,Overweight-Severely Obese
+0117318010,vzq,1.54,77.48,32.67,Overweight-Severely Obese
+8450677245,jif,1.74,99.12,32.74,Overweight-Severely Obese
+6348835859,gqu,1.85,112.11,32.76,Overweight-Severely Obese
+1688262357,yex,1.76,102.21,33.00,Overweight-Severely Obese
+5269673698,fiy,1.69,94.52,33.09,Overweight-Severely Obese
+4461477056,sao,1.63,88.37,33.26,Overweight-Severely Obese
+5367615010,pcl,1.71,98.05,33.53,Overweight-Severely Obese
+3354450707,pks,1.80,108.67,33.54,Overweight-Severely Obese
+8558450561,veu,1.87,117.83,33.70,Overweight-Severely Obese
+8177830307,xhl,1.56,82.25,33.80,Overweight-Severely Obese
+7229261669,xpd,1.59,85.53,33.83,Overweight-Severely Obese
+5280316615,vdv,1.85,115.88,33.86,Overweight-Severely Obese
+0071246720,qao,1.74,103.22,34.09,Overweight-Severely Obese
+4258953541,ojt,1.76,105.72,34.13,Overweight-Severely Obese
+5531322789,xsc,1.52,78.90,34.15,Overweight-Severely Obese
+2535560168,tpo,1.74,103.54,34.20,Overweight-Severely Obese
+5049990603,afh,1.51,78.65,34.49,Overweight-Severely Obese
+1804970998,fuk,1.64,93.35,34.71,Overweight-Severely Obese
+1515187821,zmd,1.75,106.71,34.84,Overweight-Severely Obese
+9372704511,stb,1.83,117.32,35.03,Overweight-Severely Obese
+0343762136,uba,1.51,79.89,35.04,Overweight-Severely Obese
+5931388496,wpb,1.70,103.70,35.88,Overweight-Severely Obese
+5791102171,gzb,1.68,103.27,36.59,Overweight-Severely Obese
+5769096846,aab,1.64,98.46,36.61,Overweight-Severely Obese
+1554180900,sjb,1.71,107.95,36.92,Overweight-Severely Obese
+4792677257,nge,1.75,114.14,37.27,Overweight-Severely Obese
+0198787127,plu,1.58,93.09,37.29,Overweight-Severely Obese
+0491085563,mop,1.61,99.20,38.27,Overweight-Severely Obese
+0849421538,mfj,1.62,102.61,39.10,Overweight-Severely Obese
+2160986453,mft,1.61,101.45,39.14,Overweight-Severely Obese
+8811280743,vho,1.65,107.53,39.50,Overweight-Severely Obese
+2995940993,ikd,1.70,114.86,39.74,Overweight-Severely Obese
+4318748489,oab,1.71,117.40,40.15,Overweight-Severely Obese
+9015826352,tuj,1.51,92.21,40.44,Overweight-Severely Obese
+8728136932,syh,1.66,111.86,40.59,Overweight-Severely Obese
+5372558440,vcc,1.62,106.79,40.69,Overweight-Severely Obese
+5093759517,sdn,1.70,117.69,40.72,Overweight-Severely Obese
+2009181705,ing,1.50,91.83,40.81,Overweight-Severely Obese
+1303234538,jbg,1.65,111.30,40.88,Overweight-Severely Obese
+8976254750,qpj,1.59,106.55,42.15,Overweight-Severely Obese
+7538488479,qyj,1.63,114.06,42.93,Overweight-Severely Obese
+0384277286,wrq,1.58,107.97,43.25,Overweight-Severely Obese
+5481467789,owk,1.59,115.29,45.60,Overweight-Severely Obese
+1117062656,llq,1.60,117.37,45.85,Overweight-Severely Obese
+1244492401,awd,1.58,114.59,45.90,Overweight-Severely Obese
+0076775704,dre,1.58,114.74,45.96,Overweight-Severely Obese
+7191820442,jsu,1.53,109.27,46.68,Overweight-Severely Obese
+8211375682,dsd,1.56,117.92,48.45,Overweight-Severely Obese
+6478095284,uxx,1.51,114.22,50.09,Overweight-Severely Obese
+0489761827,hih,1.53,117.99,50.40,Overweight-Severely Obese
+3374093916,dwa,1.50,116.00,51.56,Overweight-Severely Obese
+1170300911,tianyi,1.63,58.00,21.83,Normal Range
